@@ -1,0 +1,6 @@
+{
+  "name": "Jave",
+  "language": "javascript",
+  "manager": "npm",
+  "prefix": "."
+}
